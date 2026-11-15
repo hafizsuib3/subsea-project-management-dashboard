@@ -7,6 +7,16 @@ An interactive Business Intelligence portfolio project demonstrating how subsea 
 
 This project showcases the development of data-driven reporting solutions to support operational visibility, project performance monitoring, and management decision-making.
 
+## 🔐 Data Confidentiality & Privacy
+
+This repository is intended exclusively as a professional portfolio demonstrating Business Intelligence, Data Analytics, and dashboard development capabilities.
+
+Company-sensitive information, including confidential operational records, commercial figures, personal information, and proprietary business data, must be anonymized, removed, or replaced with synthetic data before public publication.
+
+The publicly accessible dashboard is intended for demonstration purposes and should not be interpreted as an official corporate reporting platform.
+
+---
+
 ---
 
 ## 🚀 Subsea Project Management Dashboard
@@ -141,15 +151,7 @@ This architecture demonstrates the integration of data engineering, data modelli
 
 ---
 
-## 🔐 Data Confidentiality & Privacy
 
-This repository is intended exclusively as a professional portfolio demonstrating Business Intelligence, Data Analytics, and dashboard development capabilities.
-
-Company-sensitive information, including confidential operational records, commercial figures, personal information, and proprietary business data, must be anonymized, removed, or replaced with synthetic data before public publication.
-
-The publicly accessible dashboard is intended for demonstration purposes and should not be interpreted as an official corporate reporting platform.
-
----
 
 ## 🔧 Project Maintenance & Version Control
 
