@@ -21,7 +21,7 @@ The publicly accessible dashboard is intended for demonstration purposes and sho
 
 ## 🚀 Subsea Project Management Dashboard
 
-### [▶ LAUNCH INTERACTIVE DASHBOARD](https://hafizsuib3.github.io/Subsea-Analytics/)
+### [▶ LAUNCH INTERACTIVE DASHBOARD](https://hafizsuib3.github.io/subsea-project-management-dashboard/)
 
 Explore the interactive dashboard directly in your browser. Navigate between reporting sections, analyze key performance indicators (KPIs), apply dynamic filters, and interact with data visualizations.
 
